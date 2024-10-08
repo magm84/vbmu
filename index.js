@@ -1,4 +1,4 @@
-const generateUUID = require('../modules/generateUUID');
+const generateUUID = require('./modules/generateUUID');
 
 module.exports = {
     generateUUID,
